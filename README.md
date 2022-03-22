@@ -1,6 +1,9 @@
 # SHEIN Clone
 This is a clone of SHEIN which is a global fashion and lifestyle e-tailer committed to making the beauty of fashion accessible to everyone.
 
+Features :
+Built authentication and integrated it with the frontend, Dynamic product page, payment gateway,Dynamic cart page with coupon functionality.
+
 # Tech Stacks
 For the frontend, we have used HTML, CSS and JavaScript. And Localstorage is used on backend.
 
